@@ -25,7 +25,7 @@ Here you will learn all the basics to get you started with the web course.
      - `code .` (open Visual Studio Code to the current folder )
 
 3. Install the recommended plugins
-   - just click the `Install` button on the message in the bottom right of Visual Studio Code
+   - just click the `Install` button on the message in the bottom right of Visual Studio CodeE
      ![Install recommended Plugins](images/RecommendedPlugins.png "How to install recommende plugins")
 
 ## Keyboard shortcut cheatsheet
